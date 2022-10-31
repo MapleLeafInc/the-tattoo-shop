@@ -1,0 +1,2 @@
+export const links = ['HOME','ABOUT','GALLERY','INTERVIEW','ARTICLES','CONTACT']
+export const socials = ["fa-brands fa-facebook-f","fa-brands fa-instagram","fa-brands fa-pinterest","fa-brands fa-twitter","fa-brands fa-youtube"]

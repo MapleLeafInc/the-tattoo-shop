@@ -1,8 +1,14 @@
-
+import Header from './components/header'
+import Main from './components/main';
+import Story from './components/Story';
 
 function App() {
   return (
-   <h1 className='text-red-600'>hlooo</h1>
+    <>
+      <Header />
+      <Main />
+      <Story />
+    </>
   );
 }
 

@@ -4,6 +4,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    backgroundImage: {
+      'main-image':"url('/src/assets/main.png')",
+      'my-story':"url('/src/assets/myStory.png')"
+    }
   },
   plugins: [],
 }
